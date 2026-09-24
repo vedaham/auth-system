@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.*
+
+# Go build output
+/bin/
+/dist/
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
