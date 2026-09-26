@@ -4,9 +4,9 @@ Authentication system made using golang
 
 ## Features
 
-Signup
-Signin
-Welcome
+- Signup
+- Signin
+- Welcome
 
 ## Tech Stack
 
