@@ -10,9 +10,9 @@ Welcome
 
 ## Tech Stack
 
--Go
--net/http
--JWT
+- Go
+- net/http
+- JWT
 
 ## Project Structure
 
